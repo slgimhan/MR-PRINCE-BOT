@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["94713317339", "Prince", false],
+  ["94713317339", "𝙽𝙾|:𝙾𝙱 ヤ", true],
   [''], 
   [''] 
 ]
@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['94713317339'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -120,7 +120,7 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
+global.botname = '𝙶𝙸𝙼 | 𝙱𝙰𝙱𝙰𝙷:ヤ'
 global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = 'Prince♥️' 
 global.author = 'Prince♥️' 
